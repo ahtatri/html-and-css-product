@@ -1,0 +1,599 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 5550px;
+    background-color: lightcyan;
+}
+
+
+.header{
+    height: 90px;
+    width: 63%;
+    background-color: yellow;
+    margin-left: 200px;
+    
+}
+.logo2 img{
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+    
+}
+
+
+.logo1{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+.heading{
+    margin-top: 25px;
+    margin-left: 5px;
+}
+ul{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 25px;
+    font-size: 20px;
+    
+
+}
+li::marker{
+    color: yellow;
+}
+li{
+    margin-left: 25px;
+}
+.logo3 h3{
+    margin-left: 0px;
+    margin-bottom: 80px;
+    width: 90px;
+    color: yellow;
+    
+}
+.logo3{
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 40px;
+    background-color: black;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.page1{
+    margin-top: 45px;
+    text-align: center;
+    
+}
+.page1 h1{
+    font-size: 44px;
+}
+.page1 button{
+    width: 330px;
+    height: 40px;
+    background-color: black;
+    margin-top: 15px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+.page2{
+    width: 850px;
+    height: 350px;
+    border: 2px solid blue;
+    border-radius: 25px;
+    margin-left: 220px;
+    margin-top: 50px;
+    background-color: blue;
+}
+
+.page3{
+    margin-top: 60px;
+    margin-left: px;
+    text-align: center;
+}
+.page3 p{
+    margin-top: 20px;
+}
+.page3 h1{
+    font-size: 44px;
+}
+
+
+
+
+.page4{
+    display: flex;
+    margin-left: 130px;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.card1{
+    width: 550px;
+    height: 380px;
+    border-radius: 35px;
+    border: 2px solid lightseagreen;
+    background-color: lightseagreen;
+}
+.heading1{
+    margin-top: 30px;
+    color: yellow;
+    background-color: black;
+    width: 220px;
+}
+.heading2{
+    margin-left: 300px;
+    color: yellow;
+    background-color: black;
+
+}
+.heading3 h1{
+color: yellow;
+    background-color: black;
+    width: 220px;
+    margin-left: 200px;
+    
+}
+.image-1 img{
+    height: 100px;
+    width: 250px;
+    
+    
+}
+.para-1{
+display: flex;
+margin-top: 20px;
+margin-left: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para-2{
+    margin-left: 20px;
+}
+.card2{
+    width: 440px;
+    height: 380px;
+    border-radius: 35px;
+    border: 2px solid yellow;
+    text-align: center;
+    background-color: yellow;
+    
+}
+.image-2 img{
+    width: 200px;
+    height: 230px;
+}
+
+.page5 {
+    display: flex;
+    margin-left: 130px;
+    gap: 30px;
+    margin-top: 15px;
+}
+
+.card3{
+    width: 440px;
+    height: 380px;
+    border-radius: 35px;
+    border: 2px solid yellow;
+    text-align: center;
+    background-color: yellow;
+}
+.card3 img{
+    width: 250px;
+    height: 200px;
+    margin-top: 15px;
+}
+
+
+.card4{
+    width: 550px;
+    height: 380px;
+    border-radius: 35px;
+    border: 2px solid lightseagreen;
+    background-color: lightseagreen;
+}
+
+.heading4{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.card4 img{
+    height: 210px;
+     width: 540px;
+     margin-top: 10px; 
+}
+
+.heading5{
+    text-align: center;
+    margin-top: 90px;
+}
+
+.page6{
+width: 1000px;
+height: 450px;
+border: 2px solid lightseagreen;
+border-radius: 40px;
+margin-left: 150px;
+margin-top: 50px;
+display: ;
+background-color: lightseagreen;
+display: flex;
+
+
+}
+.card-main5{
+    display: fl;
+}
+.card5{
+    border: 1px solid;
+    width: 300px;
+    height: 300px;
+    border-radius: 24px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: yellow;
+    border-color: yellow;
+
+}
+.card5 img{
+    width: 250px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 15px;
+}
+.heading6{
+    margin-left: 24px;
+    margin-top: 15px;
+}
+
+.card6{
+    border: 1px solid;
+    width: 300px;
+    height: 300px;
+    border-radius: 24px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    border-color: white;
+
+}
+.card6 img{
+    width: 250px;
+    height: 250px;
+    margin-left: 32px;
+    margin-top: 15px;
+}
+
+
+.page7{
+    text-align: center;
+    margin-top: 60px;
+
+
+}
+.page7 button{
+    height: 40px;
+    width: 450px;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.page8{
+    width: 1000px;
+    height: 400px;
+    border: 2px solid lightseagreen;
+    margin-top: 50px;
+    margin-left: 170px;
+    display: flex;
+    border-radius: 25px;
+    background-color: lightseagreen;
+}
+.number1 h1{
+    border: 2px solid yellow;
+    width: 60px;
+    height: 50px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: yellow;
+}
+.image-3 img{
+    border: 1px solid;
+    width: 350px;
+    height: 300px;
+    border-radius: 24px;
+    margin-left: 160px;
+    margin-top: 20px;
+    background-color: yellow;
+    border-color: yellow;
+}
+
+.heading7{
+    margin-top: 200px;
+}
+ .number1{
+    margin-top: 25px;
+    margin-left: 20px;
+ }
+
+.page9{
+    width: 1000px;
+    height: 400px;
+    border: 2px solid yellow;
+    margin-top: 50px;
+    margin-left: 170px;
+    display: flex;
+    border-radius: 25px;
+    background-color: yellow;
+}
+.number2 h1{
+    border: 2px solid yellow;
+    width: 60px;
+    height: 50px;
+    text-align: center;
+    border-radius: 8px;
+    background-color:    black;
+    color: yellow;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.image-4 img{
+    border: 1px solid;
+    width: 350px;
+    height: 300px;
+    border-radius: 24px;
+    margin-left: 160px;
+    margin-top: 20px;
+    background-color: lightseagreen;
+    border-color: yellow;
+}
+
+.heading7{
+    margin-top: 200px;
+}
+ .number1{
+    margin-top: 25px;
+    margin-left: 20px;
+ }
+
+
+ .page10{
+    width: 1000px;
+    height: 400px;
+    border: 2px solid lightseagreen;
+    margin-top: 50px;
+    margin-left: 170px;
+    display: flex;
+    border-radius: 25px;
+    background-color: lightseagreen;
+}
+.number3 h1{
+    border: 2px solid yellow;
+    width: 60px;
+    height: 50px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: yellow;
+    color: black;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.image-5 img{
+    border: 1px solid;
+    width: 350px;
+    height: 300px;
+    border-radius: 24px;
+    margin-left: 160px;
+    margin-top: 20px;
+    background-color: yellow;
+    border-color: yellow;
+}
+
+.heading7{
+    margin-top: 200px;
+}
+ .number1{
+    margin-top: 25px;
+    margin-left: 20px;
+ }
+
+
+ .page-11{
+    display: flex;
+margin-left: 200px;
+margin-top: 50px;
+gap: 20px; 
+}
+
+
+ .page12{
+    border: 3px solid yellow;
+    width: 450px;
+    height: 180px;
+    border-radius: 15px;
+    background-color: yellow;
+
+ }
+
+.page12 p{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.page12 h3{
+    margin-bottom: 30px;
+}
+
+ .page12 img{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 1000px;
+    margin-left: 40px; 
+      
+ }
+
+ .page13{
+    border: 3px solid lightpink;
+    width: 450px;
+    height: 220px;
+    border-radius: 15px;
+    background-color: lightpink;
+ }
+ .page13 p{
+    margin-top: 30px;
+    margin-left: 20px;
+ }
+ .page13 img{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 1000px;
+    margin-left: 30px;
+    margin-top: 40px; 
+      
+ }
+
+
+
+ .page-14{
+    display: flex;
+margin-left: 200px;
+margin-top: 20px;
+gap: 20px; 
+ }
+
+ .page15{
+    border: 3px solid lightpink;
+    width: 450px;
+    height: 280px;
+    border-radius: 15px;
+    background-color: lightpink;
+
+ }
+
+ .page15 img{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 1000px;
+    margin-left: 30px;
+    margin-top: 40px; 
+      
+ }
+ .page15 p{
+    margin-top: 30px;
+    margin-left: 20px;
+ }
+
+ .page16{
+    border: 3px solid lightseagreen;
+    width: 450px;
+    height: 180px;
+    border-radius: 15px;
+    background-color: lightseagreen;
+
+ }
+ .page16 img{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 1000px;
+    margin-left: 30px;
+    margin-top: 40px; 
+}
+.page16 p{
+    margin-top: 30px;
+    margin-left: 20px;
+    
+ }
+ .page17{
+    border: 3px solid yellow;
+    width: 450px;
+    height: 180px;
+    border-radius: 15px;
+    background-color: yellow;  
+    margin-left: 680px;
+    margin-bottom: 90px;
+ }
+ .page17 img{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 1000px;
+    margin-left: 30px;
+    margin-top: 40px; 
+}
+page17 p{
+    margin-top: 30px;
+    margin-left: 20px;
+    
+ }
+ .page-18{
+    
+    width: 870px;
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    margin-left: 200px;
+ }
+ .page19 img{
+    width: 430px;
+    height: 490px;
+border-radius: 20px;
+ }
+ .page20{
+    border: 4px solid;
+    width: 435px;
+    height: 490px;
+    border-radius: 20px;
+    background-color: black;
+ } 
+ .page21{
+    margin-left: 40px;
+    margin-top: 300px;
+    color: lightseagreen;
+ } 
+ .page21 button{
+    width: 330px;
+    height: 40px;
+    background-color: lightseagreen;
+    margin-top: 15px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+ }
+ .page21 h1{
+font-size: 50px;
+color: lightseagreen;
+ }
+ 
+ .foot{
+    border: 2px solid;
+    width: 100%;
+    height: 180px;
+    color: white;
+    background-color: black;
+ }
+ .foot p{
+    margin-top: 20px;
+    margin-left: 30px;
+
+ }
